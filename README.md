@@ -1,7 +1,7 @@
 # M5ComboEnv
 Project based on M5gray + Custom Onewire unit ( ds18b20 and Dht12) + Uiflow.
 ![20211017_134207](https://user-images.githubusercontent.com/7823288/144311828-9b55deab-69bc-4875-818e-21d58cf602b9.jpg)
-Hardware see schematic
+Hardware see schematic ComboEnv_schematic.png
 1) Ds18b20 sensor attached to pin 21
 2) DHT12 sensor attached to pin 22 
 
