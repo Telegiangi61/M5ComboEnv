@@ -1,0 +1,1 @@
+External lib load from great Stonatm  repository  https://github.com/stonatm/UiFlow-custom-blocks (dht12ow.m5b and ds18b20.m5b) 
